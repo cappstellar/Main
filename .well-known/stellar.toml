@@ -4,6 +4,7 @@ ACCOUNTS=[
 "GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ",
 "GBEI5MSYFGDTYBVLZZX6H2MOFHLDJ2IJZ3SQAQZE5YDEUAZJ5JWCF2IZ",
 "GDA4Q3U44CVOA72CG6YQVD2UX7DUQL3GR5UHI2LMK5Y42RRLKFPZCBTC",
+"GAMPNK4O7KX7JFIA3BEJLBCE6Y26CADVRSBZ4CZZE6J2M35PRQOCCSHX",
 ]
 
 [DOCUMENTATION]
@@ -42,3 +43,13 @@ anchor_asset_type="crypto"
 name="CashApp BTC"
 desc="Cash App, the pioneering digital payment platform, is here to revolutionize your investment game with its very own digital asset, CBTC!"
 image="https://www.capp-stellar.org/cbtc.png"
+
+[[CURRENCIES]]
+code="SHX"
+status="live"
+display_decimals=4
+issuer="GAMPNK4O7KX7JFIA3BEJLBCE6Y26CADVRSBZ4CZZE6J2M35PRQOCCSHX"
+anchor_asset_type="crypto"
+name="Stronghold"
+desc="Cash App, the pioneering digital payment platform, is here to revolutionize your investment game with its very own digital asset, SHX!"
+image="https://www.capp-stellar.org/shx.png"
